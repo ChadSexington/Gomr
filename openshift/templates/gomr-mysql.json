@@ -243,7 +243,7 @@
     {
       "name": "SOURCE_REPOSITORY_URL",
       "description": "The URL of the repository with your application source code",
-      "value": "https://github.com/tiwillia/gomr.git"
+      "value": "https://github.com/chadsexington/gomr.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
