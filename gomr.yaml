@@ -1,0 +1,7 @@
+hostname: "irc.devel.redhat.com"
+port: "6667"
+channel: "#aos_offline"
+nick: "Gomr"
+db:
+source: "https://github.com/tiwillia/gomr"
+wordnikapikey: "ad52d243c99330889656103bfbc016a7589ebd8881882f9ba"
